@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oPAp4rw558iswQnH36/giphy.gif" height=400 width=1000 alt="Project Preview">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk3cWlsYTltZXZlemZxejh0eDU3dHBxMHBtMDljYmJ0MWplMGtxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KvonBVPq0LhTX4wLmp/giphy.gif" height=400 width=600 alt="Project Preview">
 </p>
 
 
